@@ -1,0 +1,89 @@
+8 september klockan 9-12 9 september klockan 14-17 10 september klockan 9-12 11 september klockan 14-17 12 september klockan 9-12.	8 september klockan 9-12 9 september klockan 14-17 10 september klockan 9-12 11 september klockan 14-17 12 september klockan 9-12.	0.5
+Bara kom!	Bara kom!	0.5
+Bl.a.	Bl.a.	1.0
+Bl.a.	Här finner du bl.a.	0.5
+Grattis!	Grattis!	1.0000001192092896
+Ingen anmälan!	Ingen anmälan!	0.5
+Larma.	Larma.	0.9999998807907104
+Lokalradion är P4.	Lokalradion är P4.	0.5000000298023224
+Måndag - torsdag klockan 8-18.	Måndag - torsdag 8.00 - 18.00, fredag 8.00 - 17.00.	0.7448097202512953
+Parkskolans bibliotek.	Parkskolans bibliotek.	0.5
+Publicerad: 2011-06-17 10:00.	Publicerad: 2010-05-05 16:25.	1.0
+Publicerad: 2011-06-17 10:00.	Publicerad: 2013-12-19 14:51.	1.0
+Publicerad: 2011-06-17 10:00.	Publicerad: 2014-03-17 11:07.	1.0
+Publicerad: 2011-06-17 10:00.	Publicerad: 2014-06-09 16:09.	1.0
+Publicerad: 2011-06-17 10:00.	Publicerad: 2015-06-01 12:26.	1.0
+Publicerad: 2011-06-17 10:00.	Publicerad: 2016-10-31 16:21.	1.0
+Ring 036-10 62 00.	Ring 036-10 56 72.	1.0
+Ring 0476-552 20.	Ring 0476-552 20.	1.0
+Ring 070 - 357 44 28 eller 070 - 274 12 22.	Ring 070 - 357 44 28 eller 070 - 274 12 22.	0.5
+Ring telefonnummer 040-42 50 00.	Ring 112.	0.5
+Ring telefonnummer 040-42 50 00.	Ring telefonnummer 040-42 50 00.	0.5000000298023224
+Ring telefonnummer 040-42 50 00.	Telefonnummer 040-42 50 00.	0.5000000596046448
+Rädda.	Rädda.	1.0
+Selling.	Selling.	0.9999999403953552
+Själevadskolan årskurs F-9 Haffstaskolan Mycklingskolan Örnsköldskolan årskurs F-6 Domsjöskolan åskurs F-6 Bjästaskolan årskurs 7-9.	Själevadskolan årskurs F-9 Haffstaskolan Mycklingskolan Örnsköldskolan årskurs F-6 Domsjöskolan åskurs F-6 Bjästaskolan årskurs 7-9.	0.5799999892711639
+Släck.	Släck.	1.0
+Telefonnummer 040-42 50 00.	Telefonnummer 040-42 50 00.	1.0000001192092896
+Telefonnummer 040-42 57 00.	Telefonnummer 040-42 57 00.	1.0000001192092896
+Telefonnummer är 0670-164 00.	Telefonnummer är 0670-164 00.	0.5000000298023224
+Telefonnummer är 0670-167 46.	Telefonnummer är 0670-167 46.	0.5000000298023224
+Telefonnummer är 0670-167 46.	Telefonnummer är 0670-167 80.	0.5000000298023224
+Telefonnummer är 0670-167 80.	Telefonnummer är 0670-167 46.	0.5000000298023224
+Telefonnummer är 0670-167 80.	Telefonnummer är 0670-167 80.	0.5000000298023224
+Telefonnummer är 0670-169 70.	Telefonnummer är 0670-169 70.	0.5000000298023224
+Telefonnumret är 0158 - 27 54 70.	Telefonnumret är 0158 - 27 54 70.	0.5
+Telefonnumret är 021 39 35 80.	Telefonnumret är 021 39 35 80.	0.5
+Telefonnumret är 021 39 35 80.	Telefonnumret är 021-39 35 00.	0.5
+Telefonnumret är 021-39 00 00.	Telefonnumret är 021-39 37 68.	0.5
+Telefonnumret är 021-39 37 68.	Telefonnumret är 021-39 37 68.	0.5
+Telefonnumret är 0271-570 00.	Telefonnumret är 0271-570 00.	0.5
+Telefonnumret är 0322-60 06 00.	Telefonnumret är 0322-60 06 00.	0.5
+Telefonnumret är 0660 - 26 51 82.	Telefonnumret är 0660 - 26 51 82.	0.5
+Telefonnumret är 0660 - 26 51 82.	Telefonnumret är 0660 - 888 07.	0.5
+Telefonnumret är 0660 - 330 400.	Telefonnumret är 0660 - 330 400.	0.5
+Telefonnumret är 0660 - 886 80.	Telefonnumret är 0660 - 886 80.	0.5
+Telefonnumret är 0660 - 887 85.	Telefonnumret är 0660 - 887 85.	0.5
+Telefonnumret är 0660 - 887 85.	Telefonnumret är  0660-26 54 70.	0.5
+Telefonnumret är 0660 - 887 85.	Telefonnumret är 0660 - 26 51 38.	0.5
+Telefonnumret är 0660 - 887 85.	Telefonnumret är 0660 - 26 54 20 .	0.5
+Telefonnumret är 0660 - 888 07.	Telefonnumret är 0660 - 26 51 82.	0.5
+Telefonnumret är 0660 - 888 07.	Telefonnumret är 0660 - 888 07.	0.5
+Telefonnumret är 0660 - 889 00.	Telefonnumret är 0660 - 889 00.	0.5
+Telefonnumret är 0660- 886 79.	Telefonnumret är 0660- 886 79.	0.5
+Telefonnumret är 0660-880 00.	Telefonnumret är 0660-880 00.	0.5
+Telefonnumret är 0670-161 06.	Telefonnumret är 0670-161 06.	0.5
+Telefonnumret är 0670-161 17.	Telefonnumret är 0670-161 17.	0.5
+Telefonnumret är 08-578 291 00.	Telefonnumret är 08-578 291 00.	0.5
+Telefonnumret är 08-5782 91 72.	Telefonnumret är 08-5782 91 72.	0.5
+Telefonnumret är 08-798 67 70.	Telefonnumret är 08-798 67 70.	0.5
+Telefonnumret är  0660-26 54 70.	Telefonnumret är 0660 - 887 85.	0.5
+Telefonnumret är  0660-26 54 70.	Telefonnumret är  0660-26 54 70.	0.5
+Telefonnumret är  0660-26 54 70.	Telefonnumret är 0660 - 26 51 38.	0.5
+Telefonnumret är  0660-26 54 70.	Telefonnumret är 0660 - 26 54 20 .	0.5
+Telefonnumret är 0586-481 00.	Telefonnumret är 0586-481 85.	0.5
+Telefonnumret är 0660 - 26 51 38.	Telefonnumret är 0660 - 887 85.	0.5
+Telefonnumret är 0660 - 26 51 38.	Telefonnumret är  0660-26 54 70.	0.5
+Telefonnumret är 0660 - 26 51 38.	Telefonnumret är 0660 - 26 51 38.	0.5
+Telefonnumret är 0660 - 26 51 38.	Telefonnumret är 0660 - 26 54 20 .	0.5
+Telefonnumret är 0660 - 26 54 20 .	Telefonnumret är 0660 - 887 85.	0.5
+Telefonnumret är 0660 - 26 54 20 .	Telefonnumret är  0660-26 54 70.	0.5
+Telefonnumret är 0660 - 26 54 20 .	Telefonnumret är 0660 - 26 51 38.	0.5
+Telefonnumret är 0660 - 26 54 20 .	Telefonnumret är 0660 - 26 54 20 .	0.5
+Uppdaterad: 2016-09-16 12:58.	Uppdaterad: 2011-06-16 08:59.	1.0
+Uppdaterad: 2016-09-16 12:58.	Uppdaterad: 2014-06-23 13:18.	1.0
+Uppdaterad: 2016-09-16 12:58.	Uppdaterad: 2014-06-23 16:08.	1.0
+Uppdaterad: 2016-09-16 12:58.	Uppdaterad: 2015-06-01 12:38.	1.0
+Uppdaterad: 2016-09-16 12:58.	Uppdaterad: 2016-09-08 10:30.	1.0
+Uppdaterad: 2016-09-16 12:58.	Uppdaterad: 2016-10-31 16:34.	1.0
+Utveckla Kronoparken 2.	Utveckla Kronoparken 2.	0.5
+Varmt välkommen!	Varmt välkommen!	0.5
+Välkommen hit!	Välkommen hit!	0.5
+Välkommen ut!	Välkommen ut!	0.5
+Välkommen ut!	Välkommen!	0.5
+Välkommen!	Varm välkommen!	0.5
+Välkomna!	Välkomna!	1.0
+Välkomna.	Välkomna.	1.0
+biblioteket.	biblioteket!	1.0
+och sophämtning.	och sophämtning.	0.5000000298023224
+Åfjärden i Åmynnet.	Åfjärden i Åmynnet.	0.5108320245380411
